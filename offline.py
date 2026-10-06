@@ -44,6 +44,7 @@ jubair.system("cls" if jubair.name == "nt" else "clear")
 typing("hey 👋", MAGENTA, 0.10)
 # 🕌 Salam
 salam_typing(0.10)
+print()
 typing("I am Jubair Ahmad", CYAN, 0.08)
 
 print()
