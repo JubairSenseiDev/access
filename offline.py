@@ -42,12 +42,13 @@ jubair.system("cls" if jubair.name == "nt" else "clear")
 
 # 👋 Intro
 typing("hey 👋", MAGENTA, 0.10)
+# 🕌 Salam
+salam_typing(0.10)
+print()
 typing("I am Jubair Ahmad", CYAN, 0.08)
 
 print()
 
-# 🕌 Salam
-salam_typing(0.10)
 
 # 💬 Main message
 typing(
@@ -57,7 +58,7 @@ typing(
 )
 
 typing(
-    "I need to take a little break and stay offline for a while.",
+    "I need to ke a little break and stay offline for a while.",
     GREEN,
     0.035
 )
